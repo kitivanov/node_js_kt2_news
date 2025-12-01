@@ -1,5 +1,4 @@
-# node_js_kt2_news
-Парсинг новостей
+# Парсинг новостей
 
 ## Установка и запуск:
 npm init -y
@@ -15,9 +14,9 @@ node server.js
 
 Открыть браузер и запросить, например:
 
-http://localhost:3000/5/news/for/finances
+http://localhost:3000/3/news/for/politics
 
-5 — количество последних новостей
+3 — количество последних новостей
 
 politics — категория (business, economic, finances, politics, auto)
 
